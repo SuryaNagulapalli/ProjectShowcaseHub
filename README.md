@@ -72,7 +72,7 @@ This is a React application that showcases a list of projects with filtering opt
 Check out the live demo: [Live Project URL](https://allsuryaproject.ccbp.tech)
 
 ## Project Screenshot
-![Project Screenshot](https://github.com/user-attachments/assets/cb65a390-4ce4-4f16-95b7-132456550439)
+![Project Preview](https://github.com/user-attachments/assets/cb65a390-4ce4-4f16-95b7-132456550439)
 
 ## Contribution
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
