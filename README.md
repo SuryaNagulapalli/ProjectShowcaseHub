@@ -69,7 +69,7 @@ This is a React application that showcases a list of projects with filtering opt
    ```
 
 ## Live Demo
-Check out the live demo: [Live Project URL](https://your-live-demo-url.com)
+Check out the live demo: [Live Project URL](https://allsuryaproject.ccbp.tech)
 
 ## Project Screenshot
 ![Project Screenshot](https://github.com/user-attachments/assets/cb65a390-4ce4-4f16-95b7-132456550439)
@@ -81,6 +81,6 @@ Contributions are welcome! Feel free to fork the repository and submit a pull re
 This project is licensed under the MIT License.
 
 ---
-Developed with ❤️ by [Your Name]
+Developed with ❤️ by SURYA NAGULAPALLI
 
 
