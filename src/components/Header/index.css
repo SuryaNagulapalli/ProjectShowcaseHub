@@ -1,0 +1,18 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.nav-container {
+  background-color: #f1f5f9;
+  height: 10vh;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  padding-left: 30px;
+  height: 40px;
+  width: 150px;
+}
