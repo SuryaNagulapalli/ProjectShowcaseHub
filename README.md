@@ -10,28 +10,6 @@ This is a React application that showcases a list of projects with filtering opt
 - Handles API failures gracefully with an error message and retry option.
 - Fully responsive design for desktop, laptop, tablet, and mobile screens.
 
-## API Requests & Responses
-
-### Projects API
-- **Endpoint:** `https://apis.ccbp.in/ps/projects`
-- **Method:** `GET`
-- **Query Parameter:** `category`
-- **Example Request:**
-  ```
-  https://apis.ccbp.in/ps/projects?category=ALL
-  ```
-- **Response:**
-  ```json
-  {
-    "projects": [
-      {
-        "id": "1",
-        "name": "Project Name",
-        "image_url": "https://example.com/image.png"
-      }
-    ]
-  }
-  ```
 
 ## Functionality
 
